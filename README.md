@@ -8,4 +8,4 @@ I believe FinTech can change the world. An example of this is how SWE can be use
 
 ## Comment from Josh Lavroff:
 
-I agree that fintech is a very important field and will continue to become more important in coming years. Not only is it good as a financial tool like you discussed, but it is also good for tech since it drives more jobs and has the potential to create new technology as demand for fintech devs increases. 
+I agree that fintech is a very important field and will continue to become more important in coming years. Not only is it good as a financial tool like you discussed, but it is also good for tech since it drives more jobs and has the potential to create new technology as demand for fintech devs increases. Most big finance companies already have large teams of SWEs and other technical employees, so it is clear that they are taking fintech seriously.
